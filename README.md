@@ -7,12 +7,15 @@ Official respository for DeReF.
 </summary>
 
 ```bash
-@article{wang2025decouple,
-  title={Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction},
-  author={Wang, Huayi and Ying, Haochao and Xu, Yuyang and Qiu, Qibo and Zhang, Cheng and Chen, Danny Z and Sun, Ying and Wu, Jian},
-  journal={arXiv preprint arXiv:2508.18632},
-  year={2025}
-}
+@ARTICLE{11417210,
+  author={Wang, Huayi and Ying, Haochao and Xu, Yuyang and Qiu, Qibo and Zhang, Cheng and Chen, Danny Z. and Sun, Ying and Wu, Jian},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction}, 
+  year={2026},
+  volume={45},
+  number={6},
+  pages={3124-3136},
+  doi={10.1109/TMI.2026.3668773}}
 ```
 </details>
 
@@ -80,9 +83,12 @@ Huge thanks to the authors of following open-source projects:
 ## License & Citation 
 If you find our work useful in your research, please consider citing our paper at:
 ```bash
-@article{wang2025decouple,
-  title={Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction},
-  author={Wang, Huayi and Ying, Haochao and Xu, Yuyang and Qiu, Qibo and Zhang, Cheng and Chen, Danny Z and Sun, Ying and Wu, Jian},
-  journal={arXiv preprint arXiv:2508.18632},
-  year={2025}
-}
+@ARTICLE{11417210,
+  author={Wang, Huayi and Ying, Haochao and Xu, Yuyang and Qiu, Qibo and Zhang, Cheng and Chen, Danny Z. and Sun, Ying and Wu, Jian},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Decouple, Reorganize, and Fuse: A Multimodal Framework for Cancer Survival Prediction}, 
+  year={2026},
+  volume={45},
+  number={6},
+  pages={3124-3136},
+  doi={10.1109/TMI.2026.3668773}}
